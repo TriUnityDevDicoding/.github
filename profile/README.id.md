@@ -1,14 +1,14 @@
 <h1 align="center">🔥 TriUnityDevDicoding 🔥</h1>
 
-<center>
+<span align="center">
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TriUnityDevDicoding/.github/blob/main/profile/README.md)
 [![id](https://img.shields.io/badge/lang-id-red.svg)](https://github.com/TriUnityDevDicoding/.github/blob/main/profile/README.id.md)
 
-</center>
+</span>
 
 🏢 **IDCamp 2023 Challenge Team.**\
-Halaman challenge: https://www.dicoding.com/challenges/927\
+Halaman challenge: https://www.dicoding.com/challenges/927 \
 Tema challenge: Transformasi Teknologi Pendidikan Indonesia Emas 2045.
 
 ## Challenge Timeline
